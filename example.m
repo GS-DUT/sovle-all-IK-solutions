@@ -1,6 +1,3 @@
-% Before running this example, you need to unpack the package robot-10.2.zip.
-% And put all the files in the search path to make sure they can be found.
-
 clear all
 mdl_puma560
 
